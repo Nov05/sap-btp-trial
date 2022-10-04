@@ -17,5 +17,5 @@ https://developers.sap.com/tutorials/abap-environment-transactional-enablement.h
 
 e.g. package [znov05_booking](https://github.com/Nov05/sap_btp_trial/tree/main/src/znov05_booking)   
 
-👉 **Create an ABAP Project in ABAP Development Tools (ADT)**  
+👉 **Create an ABAP Project in ABAP Development Tools (ADT)**, by Julie Plummer  
 https://developers.sap.com/tutorials/abap-create-project.html  
