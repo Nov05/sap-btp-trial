@@ -6,7 +6,7 @@
 2022-10-03   
 repo created   
 
-⚫ **Get Your Eclipse ADT Installed**, by Thomas Jung  
+👉**Get Your Eclipse ADT Installed**, by Thomas Jung  
 https://www.youtube.com/watch?v=pbxNdlwm22k  
 
 ⚫ **Introduction to ABAP Object Oriented Patterns**, by Thomas Jung  
