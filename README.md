@@ -1,8 +1,11 @@
 # SAP BTP Trial Account Development  
+
+### Devtoberfest 2022 Contest Activities and Points
+https://groups.community.sap.com/t5/devtoberfest-blog-posts/devtoberfest-2022-contest-activities-and-points/ba-p/119178  
+
 2022-10-03   
 repo created   
 
-2022-10-03  
 **Get Your Eclipse ADT Installed**, by Thomas Jung  
 https://www.youtube.com/watch?v=pbxNdlwm22k  
 
