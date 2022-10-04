@@ -1,5 +1,9 @@
-# sap_btp_trial
-2022-10-03 SAP BTP Trial Account Development
+# SAP BTP Trial Account Development  
+2022-10-03 repo created  
 
-2022-10-03 Hello World  
+2022-10-03
+Get Your Eclipse ADT Installed, by Thomas Jung
 https://www.youtube.com/watch?v=pbxNdlwm22k  
+
+Introduction to ABAP Object Oriented Patterns, by Thomas Jung  
+https://www.youtube.com/watch?v=8qW2XxWgpfU  
