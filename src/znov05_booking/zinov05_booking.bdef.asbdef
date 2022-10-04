@@ -1,0 +1,18 @@
+unmanaged implementation in class zbp_inov05_booking unique;
+//strict ( 2 );
+/*
+ Comment this line in to enable strict mode.
+ The strict mode is prerequisite to be future proof
+ regarding syntax and to be able to release your BO.
+ */
+
+define behavior for zinov05_booking alias booking
+//late numbering
+lock master
+authorization master ( instance )
+etag master LastChangedAt
+{
+  create;
+  update;
+  delete;
+}

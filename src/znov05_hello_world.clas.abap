@@ -4,11 +4,10 @@ CLASS znov05_hello_world DEFINITION
   CREATE PUBLIC .
 
   PUBLIC SECTION.
-    interfaces if_oo_adt_classrun.
+    INTERFACES if_oo_adt_classrun.
   PROTECTED SECTION.
   PRIVATE SECTION.
 ENDCLASS.
-
 
 
 CLASS znov05_hello_world IMPLEMENTATION.
