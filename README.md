@@ -19,4 +19,4 @@ e.g. package [znov05_booking](https://github.com/Nov05/sap_btp_trial/tree/main/s
 👉 **[Build your Machine Learning Scenario for your SAP HANA Cloud application from Python](https://www.youtube.com/watch?v=CX38-95uBtc)** (YouTube), by Christoph Morgen    
 Quiz for extra points: [Data && Analytics - Embedded ML in SAP HANA](https://developers.sap.com/tutorials/devtoberfest2022-week-1-data-hana-ml.html)  
 
-:point-right: **[Machine Learning engines embedded in SAP Data Warehouse Cloud](https://groups.community.sap.com/t5/devtoberfest/machine-learning-engines-embedded-in-sap-data-warehouse-cloud/ev-p/9108)**  
+👉 **[Machine Learning engines embedded in SAP Data Warehouse Cloud](https://groups.community.sap.com/t5/devtoberfest/machine-learning-engines-embedded-in-sap-data-warehouse-cloud/ev-p/9108)**  
