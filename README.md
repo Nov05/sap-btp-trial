@@ -8,13 +8,13 @@
 2022-10-03   
 repo created   
 
-👉 **[Get Your Eclipse ADT Installed](https://www.youtube.com/watch?v=pbxNdlwm22k)**, by Thomas Jung (YouTube)  
+👉 **[Get Your Eclipse ADT Installed](https://www.youtube.com/watch?v=pbxNdlwm22k)** (YouTube), by Thomas Jung   
 
-👉 **[Introduction to ABAP Object Oriented Patterns](https://www.youtube.com/watch?v=8qW2XxWgpfU  )**, by Thomas Jung (YouTube)  
+👉 **[Introduction to ABAP Object Oriented Patterns](https://www.youtube.com/watch?v=8qW2XxWgpfU)** (YouTube), by Thomas Jung  
 
 👉 **[Add Transactional Behavior to Your Core Data Services](https://developers.sap.com/tutorials/abap-environment-transactional-enablement.html)**, by Merve Temel     
 e.g. package [znov05_booking](https://github.com/Nov05/sap_btp_trial/tree/main/src/znov05_booking)   
 
 2022-10-05   
-👉 **[Build your Machine Learning Scenario for your SAP HANA Cloud application from Python](https://www.youtube.com/watch?v=CX38-95uBtc)** (YouTube)  
+👉 **[Build your Machine Learning Scenario for your SAP HANA Cloud application from Python](https://www.youtube.com/watch?v=CX38-95uBtc)** (YouTube), by Christoph Morgen    
 Quiz: [Data && Analytics - Embedded ML in SAP HANA](https://developers.sap.com/tutorials/devtoberfest2022-week-1-data-hana-ml.html)  
