@@ -16,5 +16,5 @@ repo created
 e.g. package [znov05_booking](https://github.com/Nov05/sap_btp_trial/tree/main/src/znov05_booking)   
 
 2022-10-05  
-👉 **[Data && Analytics - Embedded ML in SAP HANA](https://developers.sap.com/tutorials/devtoberfest2022-week-1-data-hana-ml.html)**
-[Build your Machine Learning Scenario for your SAP HANA Cloud application from Python](https://www.youtube.com/watch?v=CX38-95uBtc) (YouTube)
+👉 **[Data && Analytics - Embedded ML in SAP HANA](https://developers.sap.com/tutorials/devtoberfest2022-week-1-data-hana-ml.html)**  
+[Build your Machine Learning Scenario for your SAP HANA Cloud application from Python](https://www.youtube.com/watch?v=CX38-95uBtc) (YouTube)  
