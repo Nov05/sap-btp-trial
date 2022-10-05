@@ -20,3 +20,5 @@ e.g. package [znov05_booking](https://github.com/Nov05/sap_btp_trial/tree/main/s
 Quiz for extra points: [Data && Analytics - Embedded ML in SAP HANA](https://developers.sap.com/tutorials/devtoberfest2022-week-1-data-hana-ml.html)  
 
 👉 **[Machine Learning engines embedded in SAP Data Warehouse Cloud](https://groups.community.sap.com/t5/devtoberfest/machine-learning-engines-embedded-in-sap-data-warehouse-cloud/ev-p/9108)**  
+
+:point_right: **[Start Using SAP HANA Cloud Free Tier Model or Trial in SAP BTP Cockpit](https://docs.google.com/document/d/1Cs3xhwe-OgQL679NVSFIeGN1TJro5o6osLJ2EdS0QhQ)**, my notes  
