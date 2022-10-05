@@ -3,7 +3,7 @@ CLASS lhc_buffer DEFINITION.
   PUBLIC SECTION.
 
     TYPES: BEGIN OF ty_buffer.
-             INCLUDE TYPE   ztbooking_xxx AS data.
+             INCLUDE TYPE   ztnov05_booking AS data.
     TYPES:   flag TYPE c LENGTH 1,
            END OF ty_buffer.
 
@@ -57,7 +57,8 @@ CLASS lcl_handler IMPLEMENTATION.
     ENDIF.
 
     LOOP AT roots_to_create INTO DATA(ls_create).
-      ADD 1 TO lv_max_booking.
+      "ADD 1 TO lv_max_booking.
+      lv_max_booking = lv_max_booking + 1.
       ls_create-%data-booking = lv_max_booking.
       GET TIME STAMP FIELD DATA(zv_tsl).
       ls_create-%data-lastchangedat = zv_tsl.
@@ -107,7 +108,7 @@ CLASS lcl_handler IMPLEMENTATION.
       IF sy-subrc = 0 AND ls_booking-flag <> 'U'.
         INSERT CORRESPONDING #( ls_booking-data ) INTO TABLE et_booking.
       ELSE.
-        SELECT SINGLE * FROM ztbooking_xxx WHERE booking = @ls_booking_key-booking INTO @DATA(ls_db).
+        SELECT SINGLE * FROM ztnov05_booking WHERE booking = @ls_booking_key-booking INTO @DATA(ls_db).
         IF sy-subrc = 0.
           INSERT CORRESPONDING #( ls_db ) INTO TABLE et_booking.
         ELSE.
@@ -138,19 +139,19 @@ ENDCLASS.
 CLASS lcl_saver IMPLEMENTATION.
 
   METHOD save.
-    DATA lt_data TYPE STANDARD TABLE OF ztbooking_xxx.
+    DATA lt_data TYPE STANDARD TABLE OF ztnov05_booking.
 
     lt_data = VALUE #(  FOR row IN lhc_buffer=>mt_buffer WHERE  ( flag = 'C' ) (  row-data ) ).
     IF lt_data IS NOT INITIAL.
-      INSERT ztbooking_xxx FROM TABLE @lt_data.
+      INSERT ztnov05_booking FROM TABLE @lt_data.
     ENDIF.
     lt_data = VALUE #(  FOR row IN lhc_buffer=>mt_buffer WHERE  ( flag = 'U' ) (  row-data ) ).
     IF lt_data IS NOT INITIAL.
-      UPDATE ztbooking_xxx FROM TABLE @lt_data.
+      UPDATE ztnov05_booking FROM TABLE @lt_data.
     ENDIF.
     lt_data = VALUE #(  FOR row IN lhc_buffer=>mt_buffer WHERE  ( flag = 'D' ) (  row-data ) ).
     IF lt_data IS NOT INITIAL.
-      DELETE ztbooking_xxx FROM TABLE @lt_data.
+      DELETE ztnov05_booking FROM TABLE @lt_data.
     ENDIF.
   ENDMETHOD.
 
