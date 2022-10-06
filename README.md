@@ -25,3 +25,7 @@ Quiz for extra points: [Data && Analytics - Embedded ML in SAP HANA](https://dev
 
 2022-10-06  
 :point_right: **[Control the Entire App Development Lifecycle with SAP Business Application Studio](https://groups.community.sap.com/t5/devtoberfest/control-the-entire-app-development-lifecycle-with-sap-business/ec-p/8954#M13)** (YouTube)   
+
+2022-10-07  
+:point_right: **[Use Redis in the Kyma Runtime to Store and Retrieve Data](https://developers.sap.com/tutorials/cp-kyma-redis-function.html)**  
+[example repo](https://github.com/SAP-samples/kyma-runtime-extension-samples)  
