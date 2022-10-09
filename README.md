@@ -8,8 +8,9 @@
 2022-10-03   
 repo created  
 
-2022-10-09 
-SAP Fiori travel app finished
+2022-10-09   
+SAP Fiori travel app finished  
+check [the folder](https://github.com/Nov05/sap-btp-trial/tree/main/src/znov05_travel_app).  
 
 👉 **[Get Your Eclipse ADT Installed](https://www.youtube.com/watch?v=pbxNdlwm22k)** (YouTube), by Thomas Jung   
 
