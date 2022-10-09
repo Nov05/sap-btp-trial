@@ -10,7 +10,7 @@ repo created
 
 2022-10-09   
 SAP Fiori travel app finished  
-check [the folder](https://github.com/Nov05/sap-btp-trial/tree/main/src/znov05_travel_app) 
+check [the code](https://github.com/Nov05/sap-btp-trial/tree/main/src/znov05_travel_app) and [my notes](https://docs.google.com/document/d/1x6VyWeiUZVAdoxq9Gxs84budzwU5WjP9A6Fy2xESNYA).
 
 <br>
 
