@@ -8,9 +8,13 @@
 2022-10-03   
 repo created  
 
+2022-10-06  
+HANA Cloud Foundry Get Started Tutorial (Important)  
+Check [the repo](https://github.com/Nov05/sap-btp-trial-hana-cf-get-started) and[【my notes】](https://docs.google.com/document/d/1Cs3xhwe-OgQL679NVSFIeGN1TJro5o6osLJ2EdS0QhQ).
+
 2022-10-09   
 SAP Fiori travel app finished  
-check [the code](https://github.com/Nov05/sap-btp-trial/tree/main/src/znov05_travel_app) and[【my notes】](https://docs.google.com/document/d/1x6VyWeiUZVAdoxq9Gxs84budzwU5WjP9A6Fy2xESNYA).
+Check [the code](https://github.com/Nov05/sap-btp-trial/tree/main/src/znov05_travel_app) and[【my notes】](https://docs.google.com/document/d/1x6VyWeiUZVAdoxq9Gxs84budzwU5WjP9A6Fy2xESNYA).
 
 <br>
 
