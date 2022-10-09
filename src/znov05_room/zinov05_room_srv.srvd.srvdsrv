@@ -1,0 +1,4 @@
+@EndUserText.label: 'Room'
+define service Zinov05_room_srv {
+  expose ZINOV05_ROOM as room;
+}

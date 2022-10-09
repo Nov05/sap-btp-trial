@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SIA2" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <SIA2>
+    <NAME>ZNOV05_LOC_RT</NAME>
+    <DESCRIPTION>Restriction Type for Location</DESCRIPTION>
+    <ABAP_LANGU_VERSION>5</ABAP_LANGU_VERSION>
+    <ID>ZNOV05_LOC_RT</ID>
+    <AGGREGATION_CATEGORY>1</AGGREGATION_CATEGORY>
+    <ABAP_LANGUAGE_VERSION>5</ABAP_LANGUAGE_VERSION>
+    <FIELDS>
+     <item>
+      <FIELD_NAME>ZNOV05_LOC_RF</FIELD_NAME>
+      <SORT_ORDER>01</SORT_ORDER>
+      <TEXT>Restriction field for Location</TEXT>
+     </item>
+    </FIELDS>
+    <AUTH_OBJECTS>
+     <item>
+      <AUTH_OBJECT_ID>ZNOV05_AO</AUTH_OBJECT_ID>
+      <AUTH_OBJECT>ZNOV05_AO</AUTH_OBJECT>
+      <TEXT>location</TEXT>
+     </item>
+    </AUTH_OBJECTS>
+    <OBJECT_VISIBILITY>
+     <IS_CREATE_BC_VISIBLE>X</IS_CREATE_BC_VISIBLE>
+     <IS_ASSIGN_TO_BC_VISIBLE>X</IS_ASSIGN_TO_BC_VISIBLE>
+    </OBJECT_VISIBILITY>
+   </SIA2>
+  </asx:values>
+ </asx:abap>
+</abapGit>

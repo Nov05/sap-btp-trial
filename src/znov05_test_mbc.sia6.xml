@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SIA6" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <SIA6>
+    <MAIN_OBJECT>
+     <NAME>ZNOV05_TEST_MBC</NAME>
+     <TYPE>SIA6</TYPE>
+     <DESCRIPTION>Test creating a Business Configuration App</DESCRIPTION>
+     <RESPONSIBLE>CB9980001832</RESPONSIBLE>
+     <MASTER_LANGUAGE>EN</MASTER_LANGUAGE>
+     <MASTER_SYSTEM>TRL</MASTER_SYSTEM>
+     <PACKAGE_REF>
+      <PACKAGE_NAME>ZNOV05</PACKAGE_NAME>
+     </PACKAGE_REF>
+     <ABAP_LANGU_VERSION>5</ABAP_LANGU_VERSION>
+    </MAIN_OBJECT>
+    <APP_ID>ZNOV05_TEST_MBC</APP_ID>
+    <APP_TYPE>MBC</APP_TYPE>
+    <ABAP_LANGUAGE_VERSION>5</ABAP_LANGUAGE_VERSION>
+    <SERVICE>
+     <item>
+      <REL_NAME>ZINOV05_ROOM_BND                   0001</REL_NAME>
+      <REL_TYPE>IWSV</REL_TYPE>
+      <APP_ID>ZNOV05_TEST_MBC</APP_ID>
+      <SRVC_NAME>4873945F1BD3A2FEB3CF9B1D7584AD</SRVC_NAME>
+      <SRVC_TYPE>HT</SRVC_TYPE>
+      <TYPE_TEXT>OData V2</TYPE_TEXT>
+     </item>
+    </SERVICE>
+    <AUTH>
+     <item>
+      <AUTH_OBJECT>ZNOV05_AO</AUTH_OBJECT>
+      <STATUS>U</STATUS>
+      <TEXT>location</TEXT>
+      <AUTH_ITEM>
+       <item>
+        <AUTH_OBJECT>ZNOV05_AO</AUTH_OBJECT>
+        <AUTH_OBJECT_INSTANCE>0001</AUTH_OBJECT_INSTANCE>
+        <TEXT>location</TEXT>
+        <STATUS>U</STATUS>
+        <VALUES>
+         <item>
+          <FIELD>ACTVT</FIELD>
+          <VALUES>
+           <item/>
+          </VALUES>
+          <TEXT>Activity</TEXT>
+          <STATUS>U</STATUS>
+          <IS_ACTVT>X</IS_ACTVT>
+         </item>
+         <item>
+          <FIELD>ZNOV05_AF</FIELD>
+          <TEXT>Location</TEXT>
+          <STATUS>U</STATUS>
+         </item>
+        </VALUES>
+       </item>
+      </AUTH_ITEM>
+     </item>
+    </AUTH>
+   </SIA6>
+  </asx:values>
+ </asx:abap>
+</abapGit>
