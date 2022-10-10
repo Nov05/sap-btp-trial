@@ -1,7 +1,7 @@
 # SAP BTP Trial Account Development  
 
 👉 **[Trial Scope](https://help.sap.com/docs/BTP/65de2977205c403bbc107264b8eccf4b/046f127f2a614438b616ccfc575fdb16.html)**  
-👉 **[【All my notes about development on SAP BTP】](https://drive.google.com/drive/folders/1zcYMM7w6xL8xd7w4wIDksbuXa0B1F_xA)**  
+👉 **[all my notes about development on SAP BTP](https://drive.google.com/drive/folders/1zcYMM7w6xL8xd7w4wIDksbuXa0B1F_xA)**  
 
 ### [Devtoberfest 2022 Contest Activities and Points](https://groups.community.sap.com/t5/devtoberfest-blog-posts/devtoberfest-2022-contest-activities-and-points/ba-p/119178)
 
