@@ -15,7 +15,7 @@ Check [the repo](https://github.com/Nov05/sap-btp-trial-hana-cf-get-started) and
 2022-10-09   
 SAP Fiori travel app developed on SAP Business Application Studio (BAS) deployed to SAP BTP    
 Check [the abap code](https://github.com/Nov05/sap-btp-trial/tree/main/src/znov05_travel_app) and[【my notes】](https://docs.google.com/document/d/1x6VyWeiUZVAdoxq9Gxs84budzwU5WjP9A6Fy2xESNYA).  
-Check [the Fiori code](https://github.com/Nov05/sap-btp-trial-fiori-travel-app) and[【my notes】](https://docs.google.com/document/d/1eFqzyGamkRnrV6doKMS_LR5pP6WpjwSgoyqRWUE3gVE).  
+Check [the Fiori repo](https://github.com/Nov05/sap-btp-trial-fiori-travel-app) and[【my notes】](https://docs.google.com/document/d/1eFqzyGamkRnrV6doKMS_LR5pP6WpjwSgoyqRWUE3gVE).  
 
 <br>
 
