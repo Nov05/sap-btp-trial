@@ -3,12 +3,6 @@
 👉 **[Trial Scope](https://help.sap.com/docs/BTP/65de2977205c403bbc107264b8eccf4b/046f127f2a614438b616ccfc575fdb16.html)**  
 👉 **[all my notes about development on SAP BTP](https://drive.google.com/drive/folders/1zcYMM7w6xL8xd7w4wIDksbuXa0B1F_xA)**  
 
----  
-
-### [Devtoberfest 2022 Contest Activities and Points](https://groups.community.sap.com/t5/devtoberfest-blog-posts/devtoberfest-2022-contest-activities-and-points/ba-p/119178)
-
----  
-
 2022-10-03   
 repo created, Eclipse ABAP Development Tools (ADT) installed  
 <img src="https://github.com/Nov05/pictures/blob/master/repos/sap-btp-trial/2022-10-09%2022_52_02-NVIDIA%20GeForce%20Overlay.jpg?raw=true">  
@@ -25,6 +19,12 @@ Check [the Fiori repo](https://github.com/Nov05/sap-btp-trial-fiori-travel-app) 
 <img src="https://github.com/Nov05/pictures/blob/master/repos/sap-btp-trial-fiori-travel-app/2022-10-09%2021_17_02-Nov05%20Travel%20App.jpg?raw=true">  
 
 <br>
+
+---  
+
+### [Devtoberfest 2022 Contest Activities and Points](https://groups.community.sap.com/t5/devtoberfest-blog-posts/devtoberfest-2022-contest-activities-and-points/ba-p/119178)
+
+---  
 
 👉 **[Get Your Eclipse ADT Installed](https://www.youtube.com/watch?v=pbxNdlwm22k)** (YouTube), by Thomas Jung   
 
