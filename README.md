@@ -8,7 +8,9 @@ repo created, Eclipse ABAP Development Tools (ADT) installed
 <img src="https://github.com/Nov05/pictures/blob/master/repos/sap-btp-trial/2022-10-09%2022_52_02-NVIDIA%20GeForce%20Overlay.jpg?raw=true">  
 
 ### 2022-10-06  
-HANA Cloud Foundry Get Started Tutorial (Important)  
+HANA Cloud Foundry Get Started Tutorial (Important)    
+Create a simple NoSQL and a SQL table; insert and select data  
+Utilize SAP HANA text, graph and geo features  
 Check [the repo](https://github.com/Nov05/sap-btp-trial-hana-cf-get-started) and[【my notes】](https://docs.google.com/document/d/1Cs3xhwe-OgQL679NVSFIeGN1TJro5o6osLJ2EdS0QhQ).
 <img src="https://github.com/Nov05/pictures/blob/master/repos/sap-btp-trial-hana-cf-get-started/2022-10-06%2013_27_30-NVIDIA%20GeForce%20Overlay.jpg?raw=true">  
 
