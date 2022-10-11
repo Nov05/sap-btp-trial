@@ -42,7 +42,7 @@ Quiz for extra points: [Data && Analytics - Embedded ML in SAP HANA](https://dev
 
 **[Machine Learning engines embedded in SAP Data Warehouse Cloud](https://groups.community.sap.com/t5/devtoberfest/machine-learning-engines-embedded-in-sap-data-warehouse-cloud/ev-p/9108)**  
 
-:point_right: **[Start Using SAP HANA Cloud Free Tier Model or Trial in SAP BTP Cockpit](https://docs.google.com/document/d/1Cs3xhwe-OgQL679NVSFIeGN1TJro5o6osLJ2EdS0QhQ)** (my notes)  
+**[Start Using SAP HANA Cloud Free Tier Model or Trial in SAP BTP Cockpit](https://docs.google.com/document/d/1Cs3xhwe-OgQL679NVSFIeGN1TJro5o6osLJ2EdS0QhQ)**(my notes)  
 
 2022-10-06  
 **[Control the Entire App Development Lifecycle with SAP Business Application Studio](https://groups.community.sap.com/t5/devtoberfest/control-the-entire-app-development-lifecycle-with-sap-business/ec-p/8954#M13)** (YouTube)   
