@@ -49,7 +49,7 @@ Quiz for extra points: [Data && Analytics - Embedded ML in SAP HANA](https://dev
 
 2022-10-07  
 **[Use Redis in the Kyma Runtime to Store and Retrieve Data](https://developers.sap.com/tutorials/cp-kyma-redis-function.html)**  
-[example repo](https://github.com/SAP-samples/kyma-runtime-extension-samples)  
+[SAP's example repo](https://github.com/SAP-samples/kyma-runtime-extension-samples)  
 
 2022-10-11
-**[🟣 Configuring BTP Cross-Account and Cross-Region Destinations For Use in UI Tooling]() by Thomas Jung
+[🟣 **Configuring BTP Cross-Account and Cross-Region Destinations For Use in UI Tooling**](https://www.youtube.com/watch?v=8ePyQJsmWYA) by Thomas Jung
