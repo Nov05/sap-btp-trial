@@ -1,7 +1,7 @@
 # SAP BTP Trial Account Development  
 
 👉 **[Trial Scope](https://help.sap.com/docs/BTP/65de2977205c403bbc107264b8eccf4b/046f127f2a614438b616ccfc575fdb16.html)**  
-👉 **[all my notes about development on SAP BTP](https://drive.google.com/drive/folders/1zcYMM7w6xL8xd7w4wIDksbuXa0B1F_xA)**  
+👉 **[All my notes about development on SAP BTP](https://drive.google.com/drive/folders/1zcYMM7w6xL8xd7w4wIDksbuXa0B1F_xA)**  
 
 ### 2022-10-03   
 :point_right: **[Repo](https://github.com/Nov05/sap-btp-trial) created, Eclipse ABAP Development Tools (ADT) installed**    
@@ -52,4 +52,5 @@ Quiz for extra points: [Data && Analytics - Embedded ML in SAP HANA](https://dev
 [SAP's example repo](https://github.com/SAP-samples/kyma-runtime-extension-samples)  
 
 2022-10-11  
-[🟣 **Configuring BTP Cross-Account and Cross-Region Destinations For Use in UI Tooling**](https://www.youtube.com/watch?v=8ePyQJsmWYA) by Thomas Jung
+[🟣 **Configuring BTP Cross-Account and Cross-Region Destinations For Use in UI Tooling**](https://www.youtube.com/watch?v=8ePyQJsmWYA) by Thomas Jung  
+👉 Check[【my motes】](https://docs.google.com/document/d/1DsKhMZFaK3PFLDksoXvyr4zt09ZG3Jl70vNXHGP826k)
