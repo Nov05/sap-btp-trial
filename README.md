@@ -28,6 +28,7 @@ Utilize SAP HANA text, graph and geo features
 ### [Devtoberfest 2022 Contest Activities and Points](https://groups.community.sap.com/t5/devtoberfest-blog-posts/devtoberfest-2022-contest-activities-and-points/ba-p/119178)
 
 ---  
+[YouTube playlist](https://www.youtube.com/playlist?list=PL6RpkC85SLQDHz97qsNTNAE2jnUKj8X5d)  
 
 **[Get Your Eclipse ADT Installed](https://www.youtube.com/watch?v=pbxNdlwm22k)** (YouTube), by Thomas Jung   
 
