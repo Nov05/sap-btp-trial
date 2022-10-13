@@ -59,5 +59,5 @@ Quiz for extra points: [Data && Analytics - Embedded ML in SAP HANA](https://dev
 2022-10-11  
 [**ABAP OO Part 1~7**](https://www.youtube.com/watch?v=GUh7QyCwxGk&list=PL6RpkC85SLQB-vyEFpUj1xkrIhH4UiV4D) by Thomas Jung  
 GitHub repo: [**CleanABAP**](https://github.com/SAP/styleguides/blob/main/clean-abap/CleanABAP.md)  
-check [my repo](https://github.com/Nov05/sap-btp-trial/tree/main/src/znov05_basics) and[【my notes】](https://docs.google.com/document/d/1f5euOf0BS8rZm4os5ImMNyOPeg_NSK_maAAjnKAz5kI)  
+👉 check [my repo](https://github.com/Nov05/sap-btp-trial/tree/main/src/znov05_basics) and[【my notes】](https://docs.google.com/document/d/1f5euOf0BS8rZm4os5ImMNyOPeg_NSK_maAAjnKAz5kI)  
 
