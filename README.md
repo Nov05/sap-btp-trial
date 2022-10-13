@@ -61,6 +61,6 @@ Quiz for extra points: [Data && Analytics - Embedded ML in SAP HANA](https://dev
 GitHub repo: [**CleanABAP**](https://github.com/SAP/styleguides/blob/main/clean-abap/CleanABAP.md)  
 👉 check [my repo](https://github.com/Nov05/sap-btp-trial/tree/main/src/znov05_basics) and[【my notes】](https://docs.google.com/document/d/1f5euOf0BS8rZm4os5ImMNyOPeg_NSK_maAAjnKAz5kI)  
 
-2022-10-13
+2022-10-13    
 [Low-Code No-Code More about **SAP AppGvyer**](https://docs.google.com/document/d/1LAH6mVnk9NcuSRxkvU-PyPOZHiOO1K1vsB5NiduQCjQ) (my note)
 
