@@ -55,3 +55,7 @@ Quiz for extra points: [Data && Analytics - Embedded ML in SAP HANA](https://dev
 2022-10-11  
 [🟣 **Configuring BTP Cross-Account and Cross-Region Destinations For Use in UI Tooling**](https://www.youtube.com/watch?v=8ePyQJsmWYA) by Thomas Jung  
 👉 Check[【my motes】](https://docs.google.com/document/d/1DsKhMZFaK3PFLDksoXvyr4zt09ZG3Jl70vNXHGP826k)
+
+2022-10-11
+GitHub repo: [**CleanABAP**](https://github.com/SAP/styleguides/blob/main/clean-abap/CleanABAP.md)  
+
