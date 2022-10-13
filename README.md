@@ -11,13 +11,13 @@
 **HANA Cloud Foundry Get Started Tutorial (Important)**    
 Create a simple NoSQL and a SQL table; insert and select data  
 Utilize SAP HANA text, graph and geo features  
-:point_right: Check [the repo](https://github.com/Nov05/sap-btp-trial-hana-cf-get-started) and[【my notes】](https://docs.google.com/document/d/1Cs3xhwe-OgQL679NVSFIeGN1TJro5o6osLJ2EdS0QhQ).
+:point_right: Check [my repo](https://github.com/Nov05/sap-btp-trial-hana-cf-get-started) and[【my notes】](https://docs.google.com/document/d/1Cs3xhwe-OgQL679NVSFIeGN1TJro5o6osLJ2EdS0QhQ).
 <img src="https://github.com/Nov05/pictures/blob/master/repos/sap-btp-trial-hana-cf-get-started/2022-10-06%2013_27_30-NVIDIA%20GeForce%20Overlay.jpg?raw=true">  
 
 ### 2022-10-09   
 **SAP Fiori travel app developed on SAP Business Application Studio (BAS) deployed to SAP BTP**    
-:point_right: Check [the abap code](https://github.com/Nov05/sap-btp-trial/tree/main/src/znov05_travel_app) and[【my notes】](https://docs.google.com/document/d/1x6VyWeiUZVAdoxq9Gxs84budzwU5WjP9A6Fy2xESNYA).  
-:point_right: Check [the Fiori repo](https://github.com/Nov05/sap-btp-trial-fiori-travel-app) and[【my notes】](https://docs.google.com/document/d/1eFqzyGamkRnrV6doKMS_LR5pP6WpjwSgoyqRWUE3gVE).  
+:point_right: Check [my abap code](https://github.com/Nov05/sap-btp-trial/tree/main/src/znov05_travel_app) and[【my notes】](https://docs.google.com/document/d/1x6VyWeiUZVAdoxq9Gxs84budzwU5WjP9A6Fy2xESNYA).  
+:point_right: Check [my Fiori repo](https://github.com/Nov05/sap-btp-trial-fiori-travel-app) and[【my notes】](https://docs.google.com/document/d/1eFqzyGamkRnrV6doKMS_LR5pP6WpjwSgoyqRWUE3gVE).  
 [![img](https://github.com/Nov05/pictures/blob/master/repos/sap-btp-trial-fiori-travel-app/2022-10-09%2021_17_02-Nov05%20Travel%20App.jpg?raw=true)](https://youtu.be/404VUrxL3ZQ)  
 <img src="https://github.com/Nov05/pictures/blob/master/repos/sap-btp-trial/20221009_fiori%20travel%20app.mp4.gif?raw=true">  
 
