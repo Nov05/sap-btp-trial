@@ -65,5 +65,5 @@ GitHub repo: [**CleanABAP**](https://github.com/SAP/styleguides/blob/main/clean-
 [**Low-Code No-Code More about SAP AppGvyer**](https://docs.google.com/document/d/1LAH6mVnk9NcuSRxkvU-PyPOZHiOO1K1vsB5NiduQCjQ) (my notes)
 
 2022-10-14   
-[🟠 SAP HANA Cloud from the SAP BTP, Kyma runtime](https://www.youtube.com/watch?v=-Ryfl9NQ5AA)   
+[**🟠 SAP HANA Cloud from the SAP BTP, Kyma runtime**](https://www.youtube.com/watch?v=-Ryfl9NQ5AA) by Thomas Jung (YouTube)     
 :point_right: check [**【my notes】**](https://docs.google.com/document/d/1uhMYnkSDdjL3w71ba8jka6LCpauYF_MocpBp2_nxmNA)
