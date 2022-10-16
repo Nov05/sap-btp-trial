@@ -1,7 +1,7 @@
 # SAP BTP Trial Account Development  
 
 👉 **[Trial Scope](https://help.sap.com/docs/BTP/65de2977205c403bbc107264b8eccf4b/046f127f2a614438b616ccfc575fdb16.html)**  
-👉 **[All my notes about development on SAP BTP](https://drive.google.com/drive/folders/1zcYMM7w6xL8xd7w4wIDksbuXa0B1F_xA)**  
+👉 **[All my notes about development on SAP BTP](https://drive.google.com/drive/folders/1zcYMM7w6xL8xd7w4wIDksbuXa0B1F_xA)**   
 
 ### 2022-10-03   
 :point_right: **[Repo](https://github.com/Nov05/sap-btp-trial) created, Eclipse ABAP Development Tools (ADT) installed**    
@@ -66,4 +66,6 @@ GitHub repo: [**CleanABAP**](https://github.com/SAP/styleguides/blob/main/clean-
 
 2022-10-14   
 [**🟠 SAP HANA Cloud from the SAP BTP, Kyma runtime**](https://www.youtube.com/watch?v=-Ryfl9NQ5AA) by Thomas Jung (YouTube)     
-:point_right: check [**【my notes】**](https://docs.google.com/document/d/1uhMYnkSDdjL3w71ba8jka6LCpauYF_MocpBp2_nxmNA)
+:point_right: check [**【my notes】**](https://docs.google.com/document/d/1uhMYnkSDdjL3w71ba8jka6LCpauYF_MocpBp2_nxmNA)  
+
+2022-10-16  
