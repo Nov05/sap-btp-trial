@@ -68,4 +68,5 @@ GitHub repo: [**CleanABAP**](https://github.com/SAP/styleguides/blob/main/clean-
 [**🟠 SAP HANA Cloud from the SAP BTP, Kyma runtime**](https://www.youtube.com/watch?v=-Ryfl9NQ5AA) by Thomas Jung (YouTube)     
 :point_right: check [**【my notes】**](https://docs.google.com/document/d/1uhMYnkSDdjL3w71ba8jka6LCpauYF_MocpBp2_nxmNA)  
 
-2022-10-16  
+2022-10-17   
+[***🟢 Troubleshoot RAP based Fiori Apps in the ABAP Development Tools*](https://www.youtube.com/watch?v=4QyJIXt0ehY)(youtube)  
