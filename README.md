@@ -70,3 +70,7 @@ GitHub repo: [**CleanABAP**](https://github.com/SAP/styleguides/blob/main/clean-
 
 2022-10-17   
 [**🟢 Troubleshoot RAP based Fiori Apps in the ABAP Development Tools**](https://www.youtube.com/watch?v=4QyJIXt0ehY) by Ingo Braeuninger, Product Expert (YouTube)  
+
+2022-10-20  
+**Consume SAP BTP Services In SAP Kyma**  
+:point_right: check [my notes](https://docs.google.com/document/d/13uFQC1r7IDoYyazgloyikEfXuOoKJgIXnehT3-ObpWc/) and [my repo](https://github.com/Nov05/sap-btp-hyperscaler-extension)  
