@@ -2,7 +2,7 @@
 
 👉 **[Trial Scope](https://help.sap.com/docs/BTP/65de2977205c403bbc107264b8eccf4b/046f127f2a614438b616ccfc575fdb16.html)**  
 👉 **[All my notes about development on SAP BTP](https://drive.google.com/drive/folders/1zcYMM7w6xL8xd7w4wIDksbuXa0B1F_xA)**   
-👉 [SAP Business Technology Platform Onboarding](https://youtube.com/playlist?list=PLkzo92owKnVw3l4fqcLoQalyFi9K4-UdY) (SAP HANA Academy, 17 videos, Last updated on Dec 16, 2022)  
+👉 [SAP Business Technology Platform Onboarding](https://youtube.com/playlist?list=PLkzo92owKnVw3l4fqcLoQalyFi9K4-UdY) (17 videos, SAP HANA Academy, Last updated on Dec 16, 2022)  
 
 ### 2022-10-03   
 :point_right: **[Repo](https://github.com/Nov05/sap-btp-trial) created, Eclipse ABAP Development Tools (ADT) installed**    
